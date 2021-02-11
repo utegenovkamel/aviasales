@@ -1,3 +1,3 @@
 # aviasales
 Aviasales работа с api 
-- Link http://aviasales.utegenov-k.ru/
+- Link https://utegenovkamel.github.io/aviasales/
